@@ -382,7 +382,7 @@ $txt['delete'] = 'Delete';
 
 $txt['kilobyte'] = 'kB';
 
-$txt['more_stats'] = '[More Stats]';
+$txt['more_stats'] = 'More Stats';
 
 $txt['code'] = 'Code';
 $txt['code_select'] = '[Select]';
@@ -424,7 +424,7 @@ $txt['smtp_port_ssl'] = 'SMTP port setting incorrect; it should be 465 for SSL s
 $txt['smtp_bad_response'] = 'Couldn\'t get mail server response codes';
 $txt['smtp_error'] = 'Ran into problems sending Mail. Error: ';
 
-$txt['mlist_search'] = 'Search For Members';
+$txt['mlist_search'] = 'Search for members';
 $txt['mlist_search_again'] = 'Search again';
 $txt['mlist_search_email'] = 'Search by email address';
 $txt['mlist_search_group'] = 'Search by position';
