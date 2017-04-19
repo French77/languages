@@ -44,8 +44,8 @@ $txt['include_website_url'] = 'Dit moet ingevuld worden als je hieronder een URL
 $txt['complete_url'] = 'Het moet een volledige URL zijn.';
 $txt['sig_info'] = 'Handtekeningen worden getoond onderaan elk (persoonlijk) bericht. BBCode en smileys kunnen hierin gebruikt worden.';
 $txt['signature_needs_posts'] = array(
-	1 => 'Your signature will not be shown to other members until you have made at least 1 post.',
-	'n' => 'Your signature will not be shown to other members until you have made at least %s posts.',
+	1 => 'Je handtekening word niet getoond aan andere leden totdat er tenminste 1 bericht is geplaatst .',
+	'n' => 'Je handtekening wordt niet aan andere leden getoond totdat er tenminste %s berichten zijn geplaatst.',
 );
 $txt['max_sig_characters'] = 'Max. aantal tekens: %1$d; resterende tekens: ';
 $txt['send_member_pm'] = 'Stuur dit lid een persoonlijk bericht';
@@ -187,8 +187,8 @@ $txt['groupMembership_info'] = 'In deze sectie van je profiel kun je kiezen tot 
 $txt['pmprefs'] = 'Persoonlijke berichten';
 $txt['ignoreboards'] = 'Genegeerde boards';
 $txt['ignoreboards_info'] = 'Deze pagina stelt je in staat specifieke boards te negeren. Als een board genegeerd is, zal de \'nieuwe post\' indicator op de boardindex niet oplichten. Ook in de \'Ongelezen berichten\'-link zullen ze niet verschijnen. Echter, genegeerde boards zullen wel nog steeds op de boardindex verschijnen, en zodra je een board opent, zul je nog steeds kunnen zien welke topics er nieuwe berichten bevatten. Ook wanneer je de \'Ongelezen reacties\'-link gebruikt, zul je topics in genegeerde boards nog steeds te zien krijgen.';
-// $txt['ignoretopics'] = 'Negeer Topic Opties';
-// $txt['ignoretopics_info'] = 'Op deze pagina kunt u bepaalde onderwerpen negeren. Wanneer een onderwerp wordt genegeerd, zal het niet worden meer worden getoond als <em>Ongelezen</em>.Genegeerd onderwerpen zullen nog wel verschijnen op de berichten index.';
+$txt['ignoretopics'] = 'Negeer Topic Opties';
+$txt['ignoretopics_info'] = 'Op deze pagina kunt u bepaalde onderwerpen negeren. Wanneer een onderwerp wordt genegeerd, zal het niet worden meer worden getoond als <em>Ongelezen</em>.Genegeerd onderwerpen zullen nog wel verschijnen op de berichten index.';
 
 $txt['manage_account'] = 'Beheer Account';
 $txt['deleteAccount'] = 'Verwijder dit account';
